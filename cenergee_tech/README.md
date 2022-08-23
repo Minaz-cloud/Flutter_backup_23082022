@@ -1,4 +1,4 @@
-# minas_flutter
+# cenergee_tech
 
 A new Flutter project.
 

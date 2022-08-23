@@ -1,4 +1,4 @@
-# minas_flutter
+# flutter_tutorial
 
 A new Flutter project.
 
